@@ -1,0 +1,10 @@
+body{
+    box-sizing: border-box;
+    /* background-color: #122222; */
+}
+
+.app-logo{
+    width: 8em;
+    display: flex;
+    margin: 0 auto;
+}

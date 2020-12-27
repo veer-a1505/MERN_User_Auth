@@ -2,19 +2,23 @@
 .env
 .txt
 
+client_side/public/robots.txt
 
 
 #react
 
 # dependencies
 /client_side/.pnp
-/client_side.pnp.js
-
+/client_side/.pnp.js
+.pnp
 # testing
 /coverage
 
 # production
 /build
+
+/client_side/.eslintcache
+.eslintcache
 
 
 .DS_Store
